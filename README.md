@@ -18,13 +18,13 @@ One day I had a dream where pico calc could be used as a regular keyboard.
 
 ## Controls :
 
-Keyboard is a normal one exception to `F10,F1,F2, break`.
-Control mouse with the directional arrow.
-Switch between mouse control and normal arrow key by pressing `F10`.
-Keep left click pressed with `F1`.
-Keep right click pressed with `F2`.
-because mouse clicks are keep pressed to make a normal click you'll have to press twice to do a normal click. So... yes you'll have to spam click four time your mouse click to double click.
-break is map to `ctrl+c`.
+- Keyboard is a normal one exception to `F10,F1,F2, break`.
+- Control mouse with the directional arrow.
+- Switch between mouse control and normal arrow key by pressing `F10`.
+- Keep left click pressed with `F1`.
+- Keep right click pressed with `F2`.
+- because mouse clicks are keep pressed to make a normal click you'll have to press twice to do a normal click. So... yes you'll have to spam click four time your mouse click to double click.
+- break is map to `ctrl+c`.
 
 ## Issues :
 
